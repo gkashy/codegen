@@ -4,7 +4,7 @@
 
 Build a cutting-edge, modern web application for an AI-powered LeetCode problem-solving system with self-reinforcement learning capabilities. The UI should provide an immersive, educational, and engaging experience that showcases real-time AI reasoning, code generation, and iterative learning.
 
-## 🛠 Technology Stack
+##  Technology Stack
 
 ### Core Framework
 - **Next.js 14** with App Router
